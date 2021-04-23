@@ -1,0 +1,20 @@
+.fullscreen .overlay {
+    min-height: 100vh;
+}
+
+.fullscreen {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    align-items: center;
+    -webkit-align-items: center;
+    min-height: 100vh;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+#header-1 {
+    background-image: url("/assets/images/top.jpeg");
+}
