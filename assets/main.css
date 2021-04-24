@@ -2,6 +2,58 @@
     background-image: url("../assets/images/top.jpeg");
 }
 
+.section-2 {
+    padding-top: 60px;
+    padding-bottom: 45px;
+    background-color: #ffffff;
+}
+
+.section-2 .mbr-section-subtitle {
+    color: #767676;
+}
+
+.section-3 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #ffffff;
+}
+
+.section-3 .line {
+    background-color: #232323;
+    color: #232323;
+    align: center;
+    height: 2px;
+    margin: 0 auto;
+}
+
+.section-3 .section-text {
+    padding: 2rem 0;
+}
+
+.section-3 .inner-container {
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    .section-3 .inner-container {
+        width: 100% !important;
+    }
+}
+
+.section-4 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-image: url("../assets/images/amor.jpeg");
+}
+
+.section-4 H2 {
+    color: #ffffff;
+}
+
+.section-4 .mbr-section-subtitle {
+    color: #ffffff;
+}
+
 
 /*!
  * Mobirise v4 theme (https://mobirise.com/)
