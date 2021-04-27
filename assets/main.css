@@ -41,17 +41,21 @@
 }
 
 .section-4 {
-    padding-top: 60px;
-    padding-bottom: 60px;
-    background-image: url("../assets/images/amor.jpeg");
+    padding-top: 10px;
+    padding-bottom: 30px;
+    background-color: white;
 }
 
-.section-4 H2 {
+.section-4 H2 .mbr-section-subtitle {
     color: #ffffff;
 }
 
-.section-4 .mbr-section-subtitle {
-    color: #ffffff;
+.section-6 {
+    background-color: #ffffff;
+}
+
+.text-gray {
+    color: #767676;
 }
 
 
@@ -99,7 +103,12 @@ figure {
 }
 
 body {
+    font-family: 'Nanum Brush Script', cursive;
     color: #232323;
+}
+
+.font-eng {
+    font-family: 'Marck Script', cursive;
 }
 
 h1,
