@@ -39,8 +39,8 @@
 }
 
 .section-4 {
-    padding-top: 10px;
-    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 60px;
     background-color: white;
 }
 
@@ -101,7 +101,7 @@ figure {
 }
 
 body {
-    font-family: 'Nanum Brush Script', cursive;
+    font-family: 'Nanum Gothic Coding', monospace;
     color: #232323;
 }
 
@@ -665,4 +665,12 @@ nav .mbr-section-btn {
     padding: 0;
     top: 0;
     left: -2400px;
+}
+
+.text-end {
+    text-align: end;
+}
+
+.text-small {
+    font-size: 14px;
 }
